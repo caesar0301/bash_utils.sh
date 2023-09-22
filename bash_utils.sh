@@ -2,7 +2,11 @@
 #----------------------------------------------
 # bash_utils.sh
 #
-# Simple functionality wrapper to speed up daily dev.
+# Simple functionality wrapper to drive daily dev.
+#
+# Usage:
+#   wget https://raw.githubusercontent.com/caesar0301/bash_utils.sh/main/bash_utils.sh -O lib/bash_utils.sh
+#   source lib/bash_utils.sh
 #
 # Author: xiaming.chen
 #
